@@ -16,4 +16,4 @@ Redesigned CTFd template for [UIKit](https://getuikit.com). Colors are based off
 - [ ] Maybe redo the Graphs?
 - [x] Wait for @ColdHeat to update to 3.0 so I can fix this all over again :stuck_out_tongue:
 
-![Theme Image](https://github.com/stormctf/CTFd-Theme-GuidePointSecurity/blob/master/CTFd-Theme-GuidePointSecurity.png)
+![Theme Image](https://github.com/stormctf/CTFd-Theme-GuidePointSecurity/blob/master/screenshots/CTFd-Theme-GuidePointSecurity.png)
