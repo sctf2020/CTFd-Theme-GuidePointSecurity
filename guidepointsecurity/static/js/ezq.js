@@ -1,13 +1,13 @@
 var modal = '<div class="uk-modal" uk-modal>' + 
-    '   <div class="uk-modal-dialog uk-background-secondary">' +
+    '   <div class="uk-modal-dialog uk-background-default">' +
     '       <button class="uk-modal-close-default" type="button" uk-close></button>' +
-    '       <div class="uk-modal-header uk-background-muted">' +
-    '           <h5 class="uk-modal-title">\{0\}</h5>' +
+    '       <div class="uk-modal-header uk-background-secondary">' +
+    '           <h5 class="uk-modal-title uk-light">\{0\}</h5>' +
     '       </div>' +
-    '       <div class="uk-modal-body uk-background-secondary">' +
+    '       <div class="uk-modal-body uk-background-default">' +
     '           <p>\{1\}</p>' +
     '       </div>' +
-    '       <div class="uk-modal-footer uk-background-muted">' +
+    '       <div class="uk-modal-footer uk-background-secondary">' +
     '       </div>' +
     '   </div>' +
     '</div>';
