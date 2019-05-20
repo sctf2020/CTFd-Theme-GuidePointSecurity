@@ -9,7 +9,7 @@ Redesigned CTFd template for [UIKit](https://getuikit.com). Colors are based off
 ## Installation
 * Copy `guidepointsecurity/` into your `CTFd/CTFd/themes` folder.
 * Copy `plugins/challenges/assets/view.html` to `CTFd/CTFd/plugins/challenges/assets/view.html`
-* Copy `plugins/dynamic_challenges/assets/view.html` to `CTFd/CTFd/plugins/challenges/assets/view.html`
+* Copy `plugins/dynamic_challenges/assets/view.html` to `CTFd/CTFd/plugins/dynamic_challenges/assets/view.html`
   * **THIS WILL OVERWRITE THE ORIGINAL. MAKE A BACKUP.**
 
 ### TO DO:
